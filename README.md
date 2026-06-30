@@ -197,13 +197,6 @@ Notre approche respecte :
 2. Les fins de phrases
 3. L'overlap 15% pour ne pas perdre le contexte aux bords
 
----
 
-## 📹 Démo vidéo (pour le rapport)
 
-Points à montrer :
-1. Import d'un PDF et barre de progression
-2. Résumé automatique généré
-3. Question simple avec citation [p.X]
-4. Filtrage par type (tableau uniquement)
-5. Comparaison flan-t5 vs Mistral-7B sur la même question
+
